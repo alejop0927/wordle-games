@@ -1,4 +1,5 @@
 palabras_5_letras = [
+
     'abeto', 'actor', 'aguas', 'agudo', 'alado', 'albas', 'altar', 'Antón', 'atizo', 'avala',
     'avión', 'azul', 'abaco', 'abate', 'abeja', 'aboya', 'abran', 'abras', 'abría', 'acoja',
     'acojo', 'acres', 'actas', 'actos', 'actúo', 'acuna', 'acune', 'acuso', 'acusó', 'acuña',
